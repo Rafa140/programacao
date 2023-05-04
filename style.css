@@ -1,5 +1,7 @@
-body{ background-color: aliceblue;}
-.começo{color: black;}
-.meio{color: #ECF9FF;}
-img{width: 100px;
-height: 100px;}
+body {background-color: #B0A4A4 ;}
+
+h1 { color: black;}
+ 
+strong{ color:black ;}
+body {background-image: futebol url(imagem.gif);}
+
